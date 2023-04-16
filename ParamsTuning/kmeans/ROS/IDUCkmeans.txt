@@ -1,0 +1,3 @@
+数据集：IDUC
+Model,P-cvscore,R-cvscore,F-cvscore
+Kmeans：0.6023444655816247,0.7051677689206294,0.4723114303043626

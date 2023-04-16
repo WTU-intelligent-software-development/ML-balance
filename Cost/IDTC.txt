@@ -1,0 +1,6 @@
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.6666666666666666,0.7142857142857143,<_io.TextIOWrapper name='../Cost/IDTC.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.7647058823529411,0.7222222222222222,<_io.TextIOWrapper name='../Cost/IDTC.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.6666666666666666,0.6153846153846154,<_io.TextIOWrapper name='../Cost/IDTC.txt' mode='a' encoding='utf-8'>

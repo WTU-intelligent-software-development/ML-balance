@@ -1,0 +1,1784 @@
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 3}
+最优模型分数：0.9338235294117647
+最优模型对象：KNeighborsClassifier(n_neighbors=3)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 6}
+最优模型分数：0.8992647058823529
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=6, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9044117647058822
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 3}
+最优模型分数：0.9338235294117647
+最优模型对象：KNeighborsClassifier(n_neighbors=3)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 6}
+最优模型分数：0.8992647058823529
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=6, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9044117647058822
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.5, 'penalty': 'l2'}
+最优模型分数：0.9106617647058822
+最优模型对象：LogisticRegression(C=0.5, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9044117647058825
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9209904761904764
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 7}
+最优模型分数：0.9217015873015872
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=7, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8930666666666667
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.9362158730158731
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.001, 'gamma': 0.01}
+最优模型分数：0.9338222222222223
+最优模型对象：SVC(C=0.001, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 5}
+最优模型分数：0.8613970588235293
+最优模型对象：KNeighborsClassifier()
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'gini', 'max_depth': 1}
+最优模型分数：0.8863970588235294
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=1, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8569852941176471
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 0.3, 'penalty': 'l2'}
+最优模型分数：0.86875
+最优模型对象：LogisticRegression(C=0.3, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 10, 'gamma': 0.01}
+最优模型分数：0.8746323529411765
+最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9668445726649837
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.965989902632528
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8750775333573746
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.8788983050847458
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 100, 'gamma': 0.01}
+最优模型分数：0.8835557158312296
+最优模型对象：SVC(C=100, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9906599350883519
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9719545618463756
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8823115759105662
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 0.3, 'penalty': 'l2'}
+最优模型分数：0.8946393797331409
+最优模型对象：LogisticRegression(C=0.3, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9069599711503787
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.977757736852098
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 7}
+最优模型分数：0.9607233719384849
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=7, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9084507309663945
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 0.3, 'penalty': 'l2'}
+最优模型分数：0.9210746155306626
+最优模型对象：LogisticRegression(C=0.3, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 100, 'gamma': 0.01}
+最优模型分数：0.9245509777862162
+最优模型对象：SVC(C=100, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9612820050486837
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9493725207356654
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8945095564370718
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.9008943382618103
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：IDTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 100, 'gamma': 0.01}
+最优模型分数：0.9025910566173818
+最优模型对象：SVC(C=100, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 3}
+最优模型分数：0.9033333333333333
+最优模型对象：KNeighborsClassifier(n_neighbors=3)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 3}
+最优模型分数：0.8866666666666667
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=3, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9233333333333335
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.8833333333333332
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 10, 'gamma': 0.01}
+最优模型分数：0.8833333333333332
+最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 9}
+最优模型分数：0.9694038573933372
+最优模型对象：KNeighborsClassifier(n_neighbors=9)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 8}
+最优模型分数：0.9609585037989479
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=8, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.920134424313267
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 1.5, 'penalty': 'l2'}
+最优模型分数：0.972822910578609
+最优模型对象：LogisticRegression(C=1.5, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'gamma': 0.01}
+最优模型分数：0.9315604909409704
+最优模型对象：SVC(C=0.1, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 3}
+最优模型分数：0.53
+最优模型对象：KNeighborsClassifier(n_neighbors=3)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'gini', 'max_depth': 2}
+最优模型分数：0.5766666666666665
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=2, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.6399999999999999
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 10, 'gamma': 0.01}
+最优模型分数：0.6399999999999999
+最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9790770404271549
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 8}
+最优模型分数：0.9834172387490467
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=8, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8788710907704044
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.9093668954996186
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9415713196033563
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9764530892448512
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.9634019832189169
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8849885583524028
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.9311365369946607
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.947711670480549
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9981481481481481
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'gini', 'max_depth': 8}
+最优模型分数：0.9824923547400612
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=8, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9189432551817873
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.9576282704723071
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9815579340808698
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9703051106025935
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'gini', 'max_depth': 8}
+最优模型分数：0.9598398169336384
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=8, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8856979405034326
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.9145385202135776
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：IDUC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9467353165522503
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.8695731707317073
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 3}
+最优模型分数：0.8651829268292683
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=3, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7601219512195122
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.7990243902439025
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8113414634146341
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9664210769053385
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9257361927821975
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8901141473538567
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.9362481263691917
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 1, 'gamma': 0.001}
+最优模型分数：0.9406468350051884
+最优模型对象：SVC(C=1, class_weight='balanced', gamma=0.001, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9312195121951218
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'gini', 'max_depth': 5}
+最优模型分数：0.9432317073170731
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=5, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.909390243902439
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1.1, 'penalty': 'l2'}
+最优模型分数：0.9166463414634146
+最优模型对象：LogisticRegression(C=1.1, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9117682926829268
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9893020594965677
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9682661958494435
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7531767011231226
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8054150556300798
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8565671111812515
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9898442226255293
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9718930008679871
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7609774060338252
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8249937531234381
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8703270075488572
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9968425626418191
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9682252691546372
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7639863853618502
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1.5, 'penalty': 'l2'}
+最优模型分数：0.8240132146133208
+最优模型对象：LogisticRegression(C=1.5, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8611848321619963
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9834927930771457
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9608156448091745
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7608981693363844
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.814602238354507
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：TCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8574163576106683
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 5}
+最优模型分数：0.8751461988304093
+最优模型对象：KNeighborsClassifier()
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'gini', 'max_depth': 2}
+最优模型分数：0.8213450292397662
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=2, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8371345029239766
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.8587719298245615
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 10, 'gamma': 0.01}
+最优模型分数：0.8535087719298247
+最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9505806783144912
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9261870503597123
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9182887975334019
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.7, 'penalty': 'l2'}
+最优模型分数：0.9498612538540596
+最优模型对象：LogisticRegression(C=0.7, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'gamma': 0.01}
+最优模型分数：0.9398047276464544
+最优模型对象：SVC(C=0.1, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 7}
+最优模型分数：0.8906432748538011
+最优模型对象：KNeighborsClassifier(n_neighbors=7)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 3}
+最优模型分数：0.9014619883040936
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=3, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9178362573099417
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1.1, 'penalty': 'l2'}
+最优模型分数：0.8956140350877193
+最优模型对象：LogisticRegression(C=1.1, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9125730994152047
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9798666321004722
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.956318412259477
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8575872796405115
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8750720129047126
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.881135499481507
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9806357299228022
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9639258555133079
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8512040557667936
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8853511349233782
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9024340361792833
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9991902834008097
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.9668914065560925
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8865564189630403
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.909166449000914
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9321650124069478
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9696119944694088
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.93580913699735
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8515338748703767
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8803836847563083
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：UCCC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8944262011752505
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 5}
+最优模型分数：0.8666666666666666
+最优模型对象：KNeighborsClassifier()
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'gini', 'max_depth': 1}
+最优模型分数：0.9288461538461539
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=1, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8448717948717949
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.7, 'penalty': 'l2'}
+最优模型分数：0.8826923076923077
+最优模型对象：LogisticRegression(C=0.7, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9282051282051282
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 4}
+最优模型分数：0.9628560171113364
+最优模型对象：KNeighborsClassifier(n_neighbors=4)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9468394686479794
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9304542384329618
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.9676263649667906
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.01, 'gamma': 0.01}
+最优模型分数：0.9665653495440729
+最优模型对象：SVC(C=0.01, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.7326923076923076
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'gini', 'max_depth': 8}
+最优模型分数：0.8429487179487178
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=8, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.6057692307692307
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.5987179487179487
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.7397435897435898
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9794730144471891
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9819282880455124
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8776502732240438
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1.5, 'penalty': 'l2'}
+最优模型分数：0.9534703196347032
+最优模型对象：LogisticRegression(C=1.5, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9679721536043117
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9937016243730818
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9802852009880979
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8754727150235795
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.961403548169773
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9734448686278914
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9865546218487395
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.9907563025210084
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9017002331658921
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.9700280112044819
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9859943977591037
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9690665468972229
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 8}
+最优模型分数：0.9775499663148439
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=8, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8768418294782544
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.9545662100456621
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+数据集：UCTC
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9687918257354593
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.4800663035756571
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'gini', 'max_depth': 2}
+最优模型分数：0.4678924934880417
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=2, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.44600284158181386
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.5, 'penalty': 'l2'}
+最优模型分数：0.45918778119820036
+最优模型对象：LogisticRegression(C=0.5, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.001, 'gamma': 0.001}
+最优模型分数：0.47913331754676775
+最优模型对象：SVC(C=0.001, class_weight='balanced', gamma=0.001, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 8}
+最优模型分数：0.8219378718135077
+最优模型对象：KNeighborsClassifier(n_neighbors=8)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 2}
+最优模型分数：0.7276744999865407
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=2, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.7989875905138766
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.8316118872647985
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 1000, 'gamma': 0.0001}
+最优模型分数：0.7258658375730167
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.0001, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 9}
+最优模型分数：0.8047738574473124
+最优模型对象：KNeighborsClassifier(n_neighbors=9)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'gini', 'max_depth': 4}
+最优模型分数：0.8192304049254086
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=4, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8188112716078617
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.840712763438314
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.8421714421027705
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.8611677738317696
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.5597543039208973
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.4472823091648485
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.43212083264033596
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 0.001, 'gamma': 0.001}
+最优模型分数：0.4724728426586312
+最优模型对象：SVC(C=0.001, class_weight='balanced', gamma=0.001, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.8580979588375908
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.6336885555979508
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.5203047394493199
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 0.5, 'penalty': 'l2'}
+最优模型分数：0.5186823104693141
+最优模型对象：LogisticRegression(C=0.5, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.5207613023783668
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9423214666837412
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 9}
+最优模型分数：0.6571782558586247
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=9, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.5920566013574081
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 0.5, 'penalty': 'l2'}
+最优模型分数：0.6306033636402442
+最优模型对象：LogisticRegression(C=0.5, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 0.1, 'gamma': 0.01}
+最优模型分数：0.629727024373586
+最优模型对象：SVC(C=0.1, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.8076421248835042
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.5530288909599255
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.4560111835973905
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.439515377446412
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+数据集：SMOS
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 0.001, 'gamma': 0.01}
+最优模型分数：0.5004659832246039
+最优模型对象：SVC(C=0.001, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：undersmapling
+模型的最优参数：{'n_neighbors': 3}
+最优模型分数：0.5350574712643679
+最优模型对象：KNeighborsClassifier(n_neighbors=3)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'criterion': 'gini', 'max_depth': 6}
+最优模型分数：0.5314579552329098
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=6, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：undersmapling
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.506715063520871
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.3, 'penalty': 'l2'}
+最优模型分数：0.48911070780399274
+最优模型对象：LogisticRegression(C=0.3, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：undersmapling
+模型的最优参数：{'C': 0.001, 'gamma': 0.001}
+最优模型分数：0.5035692679975802
+最优模型对象：SVC(C=0.001, class_weight='balanced', gamma=0.001, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：TomekLink
+模型的最优参数：{'n_neighbors': 6}
+最优模型分数：0.99029359139779
+最优模型对象：KNeighborsClassifier(n_neighbors=6)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 2}
+最优模型分数：0.778582244223647
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=2, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：TomekLink
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.9899542171944221
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：TomekLink
+模型的最优参数：{'C': 0.1, 'penalty': 'l2'}
+最优模型分数：0.99029359139779
+最优模型对象：LogisticRegression(C=0.1, random_state=32)
+--------------------------------------------
+____________________________________________________________
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：nearmiss
+模型的最优参数：{'n_neighbors': 5}
+最优模型分数：0.9318511796733212
+最优模型对象：KNeighborsClassifier()
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'criterion': 'entropy', 'max_depth': 3}
+最优模型分数：0.9316999395039322
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', criterion='entropy',
+                       max_depth=3, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：nearmiss
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.8863278886872352
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.8635208711433757
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+平衡方法：nearmiss
+模型的最优参数：{'C': 1000, 'gamma': 0.01}
+最优模型分数：0.9072595281306715
+最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+    random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：Randomos
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9939972714870395
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.6897339699863575
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：Randomos
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.49962482946793996
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Randomos
+模型的最优参数：{'C': 1.5, 'penalty': 'l2'}
+最优模型分数：0.5294338335607094
+最优模型对象：LogisticRegression(C=1.5, random_state=32)
+--------------------------------------------
+
+______________________________________________________________
+
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：smote
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9769611186903138
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smote
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.7132162346521145
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：smote
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.5176671214188268
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smote
+模型的最优参数：{'C': 1.9, 'penalty': 'l2'}
+最优模型分数：0.5394270122783082
+最优模型对象：LogisticRegression(C=1.9, random_state=32)
+--------------------------------------------
+
+________________________________________________________________________
+
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：smotenn
+模型的最优参数：{'n_neighbors': 2}
+最优模型分数：0.9957853074151803
+最优模型对象：KNeighborsClassifier(n_neighbors=2)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.7224048144351685
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：smotenn
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.5461115840407453
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：smotenn
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.5545967208909511
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------
+
+_________________________________________________________
+
+数据集：iTrust
+机器学习模型：KNeighborsClassifier()
+平衡方法：Smote_Tomek
+模型的最优参数：{'n_neighbors': 1}
+最优模型分数：0.9608908480444999
+最优模型对象：KNeighborsClassifier(n_neighbors=1)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：DecisionTreeClassifier(class_weight='balanced', random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'criterion': 'gini', 'max_depth': 9}
+最优模型分数：0.6941105956564144
+最优模型对象：DecisionTreeClassifier(class_weight='balanced', max_depth=9, random_state=32)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：GaussianNB()
+平衡方法：Smote_Tomek
+模型的最优参数：{'var_smoothing': 1e-07}
+最优模型分数：0.5200676731157807
+最优模型对象：GaussianNB(var_smoothing=1e-07)
+--------------------------------------------
+数据集：iTrust
+机器学习模型：LogisticRegression(random_state=32)
+平衡方法：Smote_Tomek
+模型的最优参数：{'C': 1.7, 'penalty': 'l2'}
+最优模型分数：0.5334387818314177
+最优模型对象：LogisticRegression(C=1.7, random_state=32)
+--------------------------------------------

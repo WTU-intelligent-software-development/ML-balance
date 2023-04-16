@@ -1,0 +1,3 @@
+数据集：iTrust
+Model,P-cvscore,R-cvscore,F-cvscore
+Kmeans：0.01067875038489971,0.542021997914073,0.02089646907150152

@@ -1,0 +1,3 @@
+数据集：IDTC
+Model,P-cvscore,R-cvscore,F-cvscore
+Kmeans：0.4650224895830458,0.3095278788706056,0.2717105835570594

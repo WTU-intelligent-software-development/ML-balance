@@ -1,0 +1,3 @@
+数据集：UCTC
+Model,P-cvscore,R-cvscore,F-cvscore
+Kmeans：0.4077489319335704,0.3865579783154617,0.3305781802287073

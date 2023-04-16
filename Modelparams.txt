@@ -1,0 +1,156 @@
+# 数据集：IDTC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 10, 'gamma': 0.01}
+# 最优模型分数：0.8746323529411765
+# 最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+
+#     数据集：IDUC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 10, 'gamma': 0.01}
+# 最优模型分数：0.6399999999999999
+# 最优模型对象：SVC(C=10, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：UCCC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9125730994152047
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+#     数据集：TCCC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9117682926829268
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：UCTC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.7397435897435898
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：SMOS
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.8421714421027705
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：iTrust
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：nearmiss
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9072595281306715
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+# _________________________________________________________________________________________
+# 数据集：IDTC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 100, 'gamma': 0.01}
+# 最优模型分数：0.9245509777862162
+# 最优模型对象：SVC(C=100, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：IDUC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9815579340808698
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：TCCC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.8611848321619963
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：UCCC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9321650124069478
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：UCTC
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 1000, 'gamma': 0.01}
+# 最优模型分数：0.9859943977591037
+# 最优模型对象：SVC(C=1000, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# 数据集：SMOS
+# 机器学习模型：SVC(class_weight='balanced', probability=True, random_state=32)
+# 平衡方法：smotenn
+# 模型的最优参数：{'C': 0.1, 'gamma': 0.01}
+# 最优模型分数：0.629727024373586
+# 最优模型对象：SVC(C=0.1, class_weight='balanced', gamma=0.01, probability=True,
+#     random_state=32)
+
+# __________________________________________________________________________________
+
+# 数据集：IDTC
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 2}
+# 最优模型分数：0.977757736852098
+# 最优模型对象：KNeighborsClassifier(n_neighbors=2)
+
+
+# 数据集：IDUC
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 1}
+# 最优模型分数：0.9981481481481481
+# 最优模型对象：KNeighborsClassifier(n_neighbors=1)
+
+# 数据集：TCCC
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 2}
+# 最优模型分数：0.9968425626418191
+# 最优模型对象：KNeighborsClassifier(n_neighbors=2)
+
+# 数据集：UCCC
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 1}
+# 最优模型分数：0.9991902834008097
+# 最优模型对象：KNeighborsClassifier(n_neighbors=1)
+
+# 数据集：UCTC
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 2}
+# 最优模型分数：0.9865546218487395
+# 最优模型对象：KNeighborsClassifier(n_neighbors=2)
+
+# 数据集：SMOS
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 2}
+# 最优模型分数：0.9423214666837412
+# 最优模型对象：KNeighborsClassifier(n_neighbors=2)
+
+# 数据集：iTrust
+# 机器学习模型：KNeighborsClassifier()
+# 平衡方法：smotenn
+# 模型的最优参数：{'n_neighbors': 2}
+# 最优模型分数：0.9957853074151803
+# 最优模型对象：KNeighborsClassifier(n_neighbors=2)

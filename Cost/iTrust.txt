@@ -1,0 +1,6 @@
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.0,0.0,<_io.TextIOWrapper name='../Cost/iTrust.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.0,0.0,<_io.TextIOWrapper name='../Cost/iTrust.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.0,0.0,<_io.TextIOWrapper name='../Cost/iTrust.txt' mode='a' encoding='utf-8'>

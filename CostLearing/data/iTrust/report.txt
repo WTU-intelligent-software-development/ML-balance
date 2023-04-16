@@ -1,0 +1,120 @@
+
+
+
+模型：random tree	accuracy：0.9902049088043233
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.40      0.02      0.04        86
+
+    accuracy                           0.99      8882
+   macro avg       0.70      0.51      0.52      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：SVC	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：LinearSVC	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：MultinomialNBModel	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：GaussianNBModel	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：BernoulliNB	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：K-means	accuracy：0.6389326728214366
+              precision    recall  f1-score   support
+
+invalid link       0.99      0.64      0.78      8796
+  valid link       0.01      0.36      0.02        86
+
+    accuracy                           0.64      8882
+   macro avg       0.50      0.50      0.40      8882
+weighted avg       0.98      0.64      0.77      8882
+
+
+
+模型：GBDT	accuracy：0.9853636568340464
+              precision    recall  f1-score   support
+
+invalid link       0.99      0.99      0.99      8796
+  valid link       0.06      0.03      0.04        86
+
+    accuracy                           0.99      8882
+   macro avg       0.53      0.51      0.52      8882
+weighted avg       0.98      0.99      0.98      8882
+
+
+
+模型：LogisticRegression	accuracy：0.9903174960594461
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      1.00      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882
+
+
+
+模型：KNN	accuracy：0.9898671470389552
+              precision    recall  f1-score   support
+
+invalid link       0.99      1.00      0.99      8796
+  valid link       0.00      0.00      0.00        86
+
+    accuracy                           0.99      8882
+   macro avg       0.50      0.50      0.50      8882
+weighted avg       0.98      0.99      0.99      8882

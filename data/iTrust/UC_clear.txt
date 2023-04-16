@@ -1,0 +1,131 @@
+system prompt enterer/editor format requir data field input data field match specifi data patient 
+enterer/editor present name user determin person enterer/editor prompt tri 
+hcp enter patient user medic record system provid patient assign mid key password provid reset his/her password hcp edit patient accord data e1 valu patient mid default and/or patient mid number assign patient system edit hcp abil enter/edit/view patient secur question/password 
+hcp provid date data diagnosi code enter caus death 
+enterer/editor present name user determin person enterer/editor prompt tri 
+administr enter lhcp er health agent user medic record system email provid a key provid reset his/her password admin specifi specialti lhcp gener physician heart surgeon ob/gyn pediatrician surgeon lt blood tissu gener data personnel edit accord data format field associ mid street address s6 e1 administr allow lhcp multipl hospit administr choos hospit provid list pull menu hospit id number lhcp store medic care personnel affili databas data administr allow lt hospit administr choos hospit provid list pull menu hospit id number lt store medic care personnel affili databas data format 
+lhcp enter uap user medic record system accord data field 
+user tri time fail attempt given session disallow attempt log ip address minut see comment sourc code 
+store secur user ask password assign creation account 
+secur question/answ set e2 secur question obtain answer 
+secur question correct chang password notif sent 
+session termin period inact allow administr set period time ensur author period inact exce length 
+lhcp present link follow laboratori result month laboratori result uc26 laboratori procedur he/sh offic visits.ani appoint day notif center rejection/accept report 
+patient present link follow ani appoint 
+system prompt hcp correct format requir data field input data field match specifi data data 
+system display default placehold imag patient photograph file 
+health repres enter edit inform includ secur question/answ accord data secur question type screen password appear answer confirm health repres save 
+hcp enter mid enter edit inform except patient secur question/password accord data format 
+hcp enter edit inform accord data format 
+hcp upload photo part patient record 
+login failur ip address machin transact type = timestamp record 
+creat view modifi delet inform follow inform record mid log mid user inform access transact type correspond given action timestamp 
+lhcp name specialti address date offic visit lhcp dlhcp patient indic list sort date offic visit 
+patient choos toggl designating/undesign lhcp dlhcp 
+patient type name name and/or provid specialti patient enter zip code match number zip code addit name and/or specialti lhcp name specialti address provid 
+default patient present list sort date access 
+patient choos view list sort role accessor health repres lhcp uap emerg respond order fine list sort role date role type access 
+health see health inform includ valu immun offic visit inform date diagnos medic name attend note procedur record record repres health repres taken offic visit satisfact survey offic visit choos take survey offic visit survey taken health abil take survey view submit survey 
+health repres see health histori sibl parent set grandpar mid itrust see diagnos relat follow present famili member suffer blood pressur systol blood pressur mmhg and/or blood pressur mmhg cholesterol hdl ¡°good¡± cholesterol level mg/dl milligram decilit and/or level mg/dl diabet diagnos icd-9cm code begin cancer diagnos icd-9cm code begin heart diseas diagnos icd=9cm code begin smoke andth caus death famili member deceas 
+health care type identif number prompt tri 
+patient chosen desir health care confirm select prompt tri 
+health care personnel enter mid e1 patient confirm select e2 health care personnel enter/edit health inform includ edit valu data format immun offic visit inform date diagnos medic name attend note procedur famili histori mid patient mother father bodi mass index bmi s3 hcp indic patient pass provid diagnosi code hcp graph height patient calendar year s3 
+hcp choos height weight graph hcp present line chart give chosen measur weight patient span calendar year data averag quarter july-septemb october-decemb e3 
+hcp type identif number prompt tri 
+patient chosen desir health care personnel confirm select prompt tri 
+hcp enter mid e1 name patient confirm select e2 hcp document offic visit date hospit locat offic visit default hcp home locat note number charact blankspac carriag return allow input valu offic visit hcp identif number maintain addit hcp document none medic ndc see data format prescrib s3 none lab procedur order loinc code see data format uc26 none diagnos icd-9cm code none procedur cpt code perform none immun given cpt code see uc15 s1 chosen list hcp add uc33 all event log uc5 s8 
+hcp return offic visit modifi field offic visit date hospit note prescript laboratori procedur uc26 uc33 diagnos procedur immun event log uc s8 hcp return offic visit record verifi chang 
+softwar tester authent medic record system uc2 present profil oper itrust medic record use percentag transact transact log user type lhcp uhcp admin tester 
+patient dlhcp choos add patient e1 e2 repres type person mid e1 e2 
+health care personnel type identif number prompt tri 
+administr type code inform prompt tri 
+administr maintain add/upd list immun hcp use administr store cpt code cpt code set diagnost servic design inform servic procedur physician coder patient accredit organ payer purpos cpt e1 charact give name e1 immun 
+administr maintain list diagnos lhcp use administr store code intern statist classif diseas relat health problem known abbrevi icd provid code classifi diseas varieti sign symptom find complaint circumst caus diseas nhc classif diseas function disabl diagnosi e1 classif diagnosi chronic/long-term or term charact give name e1 diagnosi 
+administr maintain add/upd list drug hcp use administr store nation drug code nation drug code ndc product identifi use unit state drug intend use nation drug code directori 
+administr maintain add/upd list servic includ laboratori procedur hcp use administr store inform loinc code logic observ identifi name code loinc databas standard identifi laboratori observ loinc c/o medic informat e1 accord data format 
+person health record page lhcp choos diseas patient data databas analyz accord risk factor diseas patient exhibit risk factor current risk factor chronic diseas defin diabet type type2 heart diseas chosen patient satisfi precondit chosen diseas e1 lhcp provid warn messag patient exhibit risk factor messag display risk factor patient exhibit 
+lhcp choos patient precondit appli adult test child diabet lhcp prompt analysi occur 
+patient offic visit year diagnos withdiabet mellitu diagnos icd code begin asthma diagnos icd code begin diseas diagnos icd code inclus 
+patient year flu shot cpt code http //www.influenza.com/index.cfm month sept dec calendar year month sept dec calendar year retriev time sept dec 
+patient age immun immun schedul ¡°catch schedule¡± patient begin immun accord recommend schedul 
+administr type hospit id prompt tri 
+administr type hospit name prompt tri 
+administr store hospit id number hospit e1 charact give name hospit 
+system enabl administr entri hospit modifi hospit name exist entri note administr allow system interfac exist entri hospit id number exist entri 
+lhcp type identif number prompt tri 
+patient chosen desir lhcp confirm select prompt tri 
+user health repres choos view list prescript prescript user person health repres choos list patient prescript list display s3 sort start date date rank 
+user lhcp select list request report point lhcp view prescript list patient s3 sort start date date rank 
+prescript report titl name prescript list includ medic date prescrib date end date prescript name doctor prescrib medic 
+lhcp type identif number prompt tri 
+patient chosen desir lhcp er confirm select prompt tri 
+lhcp er enter mid e1 confirm input e2 
+user input inform prompt tri 
+comment text ¡°no comment¡± link display comment¡± link 
+system enabl administr entri appoint type includ type name alpha charact durat unit minut e1 modifi durat exist entri e1 a entri type name exist entri e1 note administr allow system interfac exist entri modifi type name exist entri 
+lhcp choos patient assum lhcp patient work detail person telephon system lhcp enter patient mid select menu exist appoint type appoint date start time date/tim allow interfac provid option type date date format option select date calendar month comment charact reason appoint e1 
+lhcp patient wish view appoint list includ appoint appoint date start time date/tim user choos upcom list row list includ type appoint date start time durat name user lhcp lhcp user patient appoint list order appoint date start time soonest upcom row conflict appoint highlight conflict appoint overlap appoint durat period appoint user view calendar user select list comment click comment¡± link besid row comment appoint display page e2 
+lhcp type mid prompt tri 
+chosen patient desir lhcp confirm select tri 
+lhcp enter identif number mid e1 confirm input e2 
+lhcp view patient report specifi includ inform below.al patient inform address phone see uc4 data format histori health record see uc10 data format diagnos includ request lhcp see uc11 data format design hcp mid name see uc6 all allergi procedur medic offic visit known rel see uc11 data format mid name peopl person repres see uc13 all mid name peopl person repres see uc13 
+lhcp view list request he/sh made report statu inform request 
+health answer follow question rel uc9 s1 offic visit accord data format minut wait wait room how minut wait examin room see how offic visit how satisfi treatment inform receiv answer survey store 
+user choos view satisfact survey result user provid zip code e1 or hospit code type list see data heart specialist ob/gyn patient provid follow type practic zip code base address/zipcod provid uc2 match digit provid zip code nameaddressaverag number minut patient wait wait roomaverag number minut patient wait examin room see physicianaverag offic visit satisfactionaverag satisfact treatment/informationpercentag offic visit satisfact inform 
+input zip code see data format user ask tri 
+lab procedur code intend procedur code hcp select procedur code 
+select lab technician intend lab technician hcp select lab technician 
+hcp creat lab procedur given offic visit hcp select code prioriti lab technician list specialti number pend lab procedur his/her prioriti queue group prioriti hcp save procedur cancel lab procedur creation e1 e2 statu lab procedur mark transit 
+hcp view creat procedur given offic visit hcp view patient name procedur code lab procedur statu timestamp lab technician name 
+hcp reassign creat procedur lab technician lab procedur test state hcp select lab technician list lab technician display lab technician specialti number pend lab procedur his/her prioriti queue group prioriti hcp confirm cancel reassign e2 
+hcp remov creat procedur given offic visit hcp choos remov procedur statu transit receiv hcp prompt confirm he/sh wish remov lab procedur 
+user chang password uc3 s2 email inform password chang sent user includ mid password 
+statu laboratori procedur updat uc26 s3 patient notifi follow inform loinc number updat statu 
+lhcp choos view patient offic visit patient¡¯ name view phr address date offic visit list sort date offic visit 
+patient diagnos condit want find lhcp area handl condit patient choos diagnoses¡± present diagnos sort diagnosi date patient diagnosi present lhcp patient live area base number zip code handl diagnosi year list rank patient lhcp treat diagnosi patient count number offic visit lhcp follow inform display name lhcp link inform lhcpthe quantiti uniqu patient treat lhcp diagnosi patient count number offic visit list prescript given lhcp laboratori procedur order lhcp diagnosisth lchp visit satisfactionth lhcp treatment satisfact 
+hcp type identif number prompt tri 
+patient chosen desir hcp confirm select prompt tri 
+patient choos send messag lhcp multipl recipi allow messag present menu his/her dlhcp choos dlhcp type charact messag charact click send button a row show messag name recipi timestamp includ date time messag outbox a bold row show messag name sender timestamp lhcp messag inbox email sent lhcp alert messag arriv messag sent repres direct messag outbox 
+lhcp choos send messag recipi allow messag lhcp enter confirm patient/repres mid e1 e2 lhcp type charact messag charact click send button a row show messag name recipi timestamp lhcp¡¯ messag outbox a bold row show messag name sender timestamp messag email sent indic he/sh messag lhcp messag sent lhcp direct messag outbox 
+patient repres wish repli messag view messag inbox open messag wish repli s5 click repli messag text enter text respons messag charact wish send click send button a row show messag subject preced ¡°re ¡± name recipi timestamp messag outbox a bold row show messag subject preced ¡°re ¡± name sender timestamp lhcp¡¯ messag inbox a fake email sent lhcp alert lhcp messag repli arriv 
+lhcp wish repli messag lhcp view messag inbox lhcp open messag wish repli s5 click repli messag text lhcp enter text respons messag charact wish send click send button a row show messag subject preced ¡°re ¡± name recipi timestamp lhcp¡¯ messag outbox a bold row show messag subject preced ¡°re ¡± name sender timestamp messag inbox email sent alert messag repli arriv 
+patient patient lhcp wish read messag messag inbox user choos messag row messag inbox/outbox includ messag name sender case recipi case outbox timestamp default messag messag order timestamp row messag messag inbox bold user select messag inbox/outbox read click link row messag messag name sender name recipi timestamp messag text display page messag messag display page row messag messag inbox bold 
+patient patient lhcp sort messag messag inbox sender name timestamp ascend descend order timestamp descend order user sort messag messag outbox recipi name timestamp ascend descend order user select option ¡°sort by¡± label box option ¡°sender/recipient¡± select option ¡°bi order of¡± label box option ¡°ascending¡± click ¡°sort¡± button note sort order save view messag inbox outbox reopen default sort use 
+user lhcp modifi messag display modifi follow filter criteria sender i.e. sender name specifi string i.e. subject specifi string word messag bodi specifi substr i.e. messag bodi specifi substr time fall period defin start date end date user interfac provid option type date date format option select date calendar month note filter includ valu filter criteria filter filter criteria valu empti string indic criterion impact filter impos constraint criterion user interfac valu filter criteria save filter modifi criteria choos click ¡°cancel¡± button cancel modif filter repopul user interfac valu filter criteria save click search¡± button search i.e. display messag inbox s5 includ messag satisfi specifi filter criteria ¡°save¡± button save modifi user associ filter save login session appli save user associ filter input filter criteria modifi 
+prescript report list titl name expir prescript list includ medic date prescrib day offic visit start date end date prescript name lhcp prescrib medic name lhcp link inform lhcp expir prescript empti expir prescript list present 
+patient click name lhcp expir prescript present inform lhcp includ first name name lhcp type street address street address citi state zip code phone contact email type contact inform miss contact inform lhcp databas correspond miss type inform shown blank 
+patient satisfi condit list present 
+patient patient diagnos follow diabet mellitu diagnos icd code begin asthma diagnos icd code begin diseas diagnos icd code inclus 
+list titl hcp name list includ patient name name name phone number contact address e1 e2 confirm call email made sent itrust system list sort base ascend order patient name patient satisfi condit prescript satisfi condit patient list list list list link patient name phone number contact email address 
+receiv hcp chosen desir hcp send hcp confirm select prompt tri 
+patient receiv hcp note prioriti hcp prompt inform 
+hcp choos refer receiv hcp featur patient offic visit page uc11 send hcp select receiv hcp enter hcp mid confirm select search hcp name send hcp present box includ note referr send hcp choos prioriti hcp send cancel e1 edit e2 send patient send hcp receiv hcp messag summar creat inform send hcp name specialti receiv hcp name specialti patient name note creation timestamp send receiv hcp messag includ prioriti 
+hcp choos view receiv referr receiv hcp present list referr sort prioriti receiv hcp select view detail present name specialti send hcp patient note prioriti offic visit date link offic visit time creat 
+send hcp view list sent referr hcp sort list referr name receiv hcp name time gener prioriti hcp choos list view detail patient name receiv hcp name specialti time gener prioriti offic visit date note 
+patient chosen desir hcp confirm select prompt tri 
+patient uap repres enter blood pressur rang blood pressur rang he/sh notifi error prompt tri 
+patient uap repres enter glucos rang he/sh notifi error prompt tri 
+patient uap repres tri enter physiolog data point day told data enter 
+lhcp uap add patient monitor list patient list lhcp uap type patient mid e1 name lhcp patient monitor list lhcp type patient mid e1 case lhcp present patient confirm add/delet monitor list lhcp choos edit type remot monitor inform blood pressur glucos level height read submit default type inform select monitor 
+patient physiolog data type specifi monitor choos report data report blood pressur e2 and/or glucos level e3 input data timestamp fact statu save 
+lhcp choos view data monitor detail lhcp present patient physiolog data type specifi monitor blood pressur glucos level record timestamp report data patient uap name repres name patient inform day highlight patient blood pressur glucos level rang highlight blood pressur lhcp patient obtain inform patient s4 
+lhcp select view inform patient lhcp present he/sh choos date rang onc date rang select lhcp see name patient phone number name phone number blood pressur glucos level height read report data patient uap name repres name date rang 
+uap report physiolog measur he/sh present patient physiolog data type specifi monitor he/sh allow report measur enter data report blood pressur e2 and/or glucos level e3 patient input data timestamp fact statu report ¡°case manager¡± mid save input entri correspond data type specifi monitor display uap 
+report physiolog measur physiolog data type specifi monitor patient repres he/sh present patient physiolog data type specifi monitor he/sh allow report measur enter data report blood pressur e2 and/or glucos level e3 patient input data timestamp fact statu report representative¡± mid save input entri correspond data type specifi monitor display patient 
+patient present prescript drug he/sh prescrib taken month patient choos drug report event patient descript describ symptom event save inform a fake email sent lhcp medic indic name mid drug symptom 
+patient present immun he/sh administ month patient choos report event patient descript describ symptom event save inform a fake email sent lhcp administ immun indic name mid drug symptom 
+health agent present prescript event time period statu ¡°removed¡± sort ndc health agent select see detail report read report health agent choos ¡°fake email¡± messag event report gain inform report health agent choos event report base commun report report appear s3 
+health agent present event time period statu ¡°removed¡± sort cpt code health agent select see detail report read report health agent choos ¡°fake email¡± messag event report gain inform report health agent choos event report base commun report report appear s3 
+event report chang statu ¡°removed.¡± messag remov sent event report lhcp involv report lhcp prescrib drug administ immun 
+drug desir patient drug allergi hcp notifi drug allergi 
+drug desir interact drug taken patient hcp notifi interact 
+hcp select reason reason list overrid e1 patient sent ¡°fake email¡± hcp prescrib medic he/sh allerg known drug he/sh take 
+administ present list ndc codes/nam administr choos drug list record interact drug e1 drug descript effect interact store 
+administr select drug present drug interact drug administr select pair drug interact drug 
+lhcp patient choos display appoint month calendar month his/her appoint month display calendar s3 user appoint calendar read appoint detail s4 
+patient choos display appoint month offic visit date prescript date lab procedur date month calendar month his/her appoint display calendar s3 user appoint calendar read appoint detail s4 calendar date entri offic visit display label diagnos i.e. icd-9cm code offic visit user offic visit calendar read visit detail s5 calendar date entri prescript date i.e. date offic visit medic prescrib display medic prescrib ndc see data format prescript user prescript calendar read prescript detail s6 calendar date entri laboratori procedur entri statu updat date display label loinc code laboratori procedur user laboratori procedur calendar read procedur detail s7 
+calendar date entri appoint display appoint type name appoint date entri includ conflict appoint highlight conflict appoint overlap appoint durat period appoint user 
+user select calendar read detail click details¡± link besid appoint type name display appoint detail appoint display page includ type appoint date start time comment name user lhcp lhcp patient 
+user select offic visit calendar read detail click details¡± link icd-9cm code i.e. diagnos display visit detail visit display page includ date offic visit note text diagnos i.e. icd-9cm code procedur perform cpt code lab procedur order loinc code see data format medic prescrib ndc see data format immun given cpt code see uc15 s1 name doctor prescrib medic 
+user select prescript calendar read detail click details¡± link medic display prescript detail prescript display page includ medic prescrib ndc see data format date prescrib start date end date prescript name doctor prescrib medic 
+user select procedur calendar read detail click details¡± link besid loinc code display procedur detail procedur display page includ procedur code statu result visit date laboratori procedur order 

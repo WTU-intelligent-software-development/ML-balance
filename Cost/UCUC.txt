@@ -1,0 +1,6 @@
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.7272727272727273,0.5,<_io.TextIOWrapper name='../Cost/UCUC.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.8823529411764706,0.6,<_io.TextIOWrapper name='../Cost/UCUC.txt' mode='a' encoding='utf-8'>
+ModelFinallres,P-score,R-score,F-score
+AdaBoost,0.7,0.3333333333333333,<_io.TextIOWrapper name='../Cost/UCUC.txt' mode='a' encoding='utf-8'>
